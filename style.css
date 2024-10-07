@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 1s;
+}
+
+.pp {
+	height: 50vmin;
+	width: 50vmin;
+}
+
+.img {
+	border-radius: 100000000000vmin;
+	height: 100%;
+	background-image: url("exploding-brain-andrzej-wojcickiscience-photo-library.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    position: relative;
+}
+
+.aba {
+	background-color: rgb(0, 255, 0);
+	height: 20vmin;
+	width: 20vmin;
+	border-radius: 100000000000vmin;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
